@@ -31,7 +31,6 @@ const Products = ({productData} : any) =>{
                                     id : id,
                                     title:title,
                                     price:price,
-                            
                                     category:category,
                                     image:image,
                                     quantity:1,
@@ -44,7 +43,6 @@ const Products = ({productData} : any) =>{
                                     id : id,
                                     title:title,
                                     price:price,
-                        
                                     category:category,
                                     image:image,
                                     quantity:1,
